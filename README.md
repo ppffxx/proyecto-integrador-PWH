@@ -1,11 +1,16 @@
 # Proyecto Integrador
 
+## Integrantes:
+
 ```
 Ricardo Emiliano Farias Castillo
 Nahuel Monje
+
 ```
-## Link de la página en webhost
+
+# Link de la pagina en 000webhost
 
 ``` 
-URL https://misitiopipi.000webhostapp.com/
+<https://misitiopipi.000webhostapp.com/>
+
 ```
