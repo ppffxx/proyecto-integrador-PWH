@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@400;700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+header {
+    height: 20px;
+    background-color: #FCEE21;
+}
+
+nav {
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+
+#logo {
+    padding-left: 50px;
+    width: 200px;
+}
+
+a {
+    font-size: 20px;
+    margin: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+.contendor-uno-padre {
+    display: flex;
+    flex-direction: row;
+}
+
+.margin-h {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.titulo {
+    font-family: 'Coiny';
+    font-weight: 400;
+    font-size: 90px;
+}
+
+
+
+.resaltado{
+    font-weight: bold;
+    background-color: #FCEE21;
+    max-width: fit-content;
+    font-size: 34px;
+}
+
+
+.margin-h4 {
+    margin-left: 50px;
+}
+
+#text-h4 {
+    font-size: 26px;
+}
+
+
+.parrafos-margin {
+    margin: 20px 100px 50px 50px;
+    font-size: 28px;
+}
+
+.margin-fotos {
+    margin-top: 40px;
+    margin-right: 100px;
+}
+
+.contenedor-dos-padre {
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 54px;
+}
+
+h4 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 34px;
+}
+
+li {
+    font-size: 32px;
+}
+
+section p {
+    font-size: 28px;
+}
+
+
+hr {
+    margin: 0px 50px;
+}
+
+ol p{
+    margin-left: -30px;
+}
+
+.contenedor{
+    position: relative;
+    margin: 75px 0px 75px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around
+}
+
+#ImgServicios img{
+    max-width: 700px;
+}
+
+#Servicios{
+    max-width: 700px;
+}
+
+#Servicios li{
+    margin-bottom: 25px;
+}
+
+.tituloFormulario{
+    background-color: black;
+    color: white;
+    max-width:fit-content;
+    font-weight: bold;
+    font-size: 68px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+#formulario{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+#formulario form label{
+    margin-top: 40px;
+    font-size: 26px;
+}
+
+#formulario form button{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+#formulario form input{
+    height: 54px;
+    width: 700px;
+    font-size: 24px;
+}
+
+#formulario form #mensaje{
+    height: 200px;
+}
+
+#botones{
+    display: flex;
+    justify-content: space-between;
+}
+
+#botones button{
+    padding: 10px 30px;
+    color: white;
+    background-color: black;
+    
+}
+
+#envianosTuConsulta{
+    margin-left: 20px;
+    height: 500px;
+}
+
+#envianosTuConsulta h3{
+    font-size: 44px;
+    margin-top: 80px;
+}
+
+.asterisco{
+    color: red;
+}
+
+
+.footer-uno {
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.footer-dos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #FCEE21;
+    
+}
+
+#logo-instagram, #logo-dribble, #logo-facebook, #logo-linkedin {
+    padding: 20px 20px;
+} 
+
+
+.p-footer {
+    align-self: flex-start;
+    font-size: 33.33px;
+    font-weight: 700;
+    color: #B3B3B3;
+}
